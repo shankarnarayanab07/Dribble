@@ -1,32 +1,40 @@
 # Project Responsive Web Design using Bootstrap
-## Date:15-10-2025
+
+## Date:16-10-2025
 
 ## AIM:
-To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
+To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
 ## DESIGN STEPS:
 
 ### Step 1:
+
 Clone the repository from GitHub.
 
 ### Step 2:
+
 Create Django Admin project.
 
 ### Step 3:
+
 Create a New App under the Django Admin project.
 
 ### Step 4:
+
 Insert the necessary CSS and JavaScript files as external in order to use Bootstrap.
 
 ### Step 5:
+
 Create a HTML file and include the needed Bootstrap components.
 
 ### Step 6:
+
 Publish the website in the LocalHost.
 
 ## PROGRAM :
-~~~
+
+```
 index.html
 
 <!DOCTYPE html>
@@ -262,14 +270,15 @@ index.html
 </body>
 </html>
 
-~~~
+```
 
 ## OUTPUT:
-![alt text](<nithyaa/nithyaa/static/Screenshot 2025-05-20 134837.png>)
-![alt text](<nithyaa/nithyaa/static/Screenshot 2025-05-20 134932.png>)
-![alt text](<nithyaa/nithyaa/static/Screenshot 2025-05-20 135004.png>)
-![alt text](<nithyaa/nithyaa/static/Screenshot 2025-05-20 135029.png>)
 
+![alt text](<shankar/shankar/static/Screenshot 2025-05-20 134837.png>)
+![alt text](<shankar/shankar/static/Screenshot 2025-05-20 134932.png>)
+![alt text](<shankar/shankar/static/Screenshot 2025-05-20 135004.png>)
+![alt text](<shankar/shankar/static/Screenshot 2025-05-20 135029.png>)
 
 ## RESULT:
+
 The Project for responsive web design using Bootstrap is completed successfully.
