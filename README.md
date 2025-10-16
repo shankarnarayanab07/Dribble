@@ -274,10 +274,10 @@ index.html
 
 ## OUTPUT:
 
-![alt text](<shankar/shankar/static/Screenshot 2025-05-20 134837.png>)
-![alt text](<shankar/shankar/static/Screenshot 2025-05-20 134932.png>)
-![alt text](<shankar/shankar/static/Screenshot 2025-05-20 135004.png>)
-![alt text](<shankar/shankar/static/Screenshot 2025-05-20 135029.png>)
+![alt text](<nithyaa/nithyaa/static/Screenshot 2025-05-20 134837.png>)
+![alt text](<nithyaa/nithyaa/static/Screenshot 2025-05-20 134932.png>)
+![alt text](<nithyaa/nithyaa/static/Screenshot 2025-05-20 135004.png>)
+![alt text](<nithyaa/nithyaa/static/Screenshot 2025-05-20 135029.png>)
 
 ## RESULT:
 
